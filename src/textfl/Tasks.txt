@@ -1,0 +1,5 @@
+101,Teacher,"Math Homework","Solve pages 10 to 20",2025-04-13,15:00,10,PENDING,0
+102,Parent,"Reading Assignment","Read chapter 5",2025-04-13,18:00,15,PENDING,0
+103,Teacher,"School Picnic","Prepare lunch and snacks",2025-04-13,10:00,2025-04-13,12:00,20,APPROVED,4
+104,Parent,"Art Class","Attend drawing lesson",2025-04-15,09:00,2025-04-15,11:00,15,PENDING,0
+105,Teacher,"Science Project","Prepare volcano experiment",2025-04-18,16:00,30,PENDING,0

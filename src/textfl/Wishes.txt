@@ -1,0 +1,2 @@
+W201,"New Bicycle","Price:300TL, Brand:SpeedX",,APPROVED,2
+W202,"Movie Tickets","Price:50TL for two",2025-04-13,REJECTED,0
